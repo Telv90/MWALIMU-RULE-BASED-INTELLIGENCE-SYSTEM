@@ -1,0 +1,17 @@
+
+{
+    "performance_rules": {
+        "Excellent": 80,
+        "Good": 70,
+        "Kudos": 60,
+        "Fair": 50,
+        "Weak": 0
+    },
+    "Reviews": {
+        "Excellent": "Provide Advanced Questions",
+        "Good": "Provide additional Medium Tasks",
+        "Kudos": "Provide additional Medium Tasks and a few tutorials",
+        "Fair": "Requires guidance but can work with tutorials and extra practice",
+        "Weak": "Requires reteaching and step-by-step guidance for improvement"
+    }
+}

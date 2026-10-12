@@ -1,0 +1,283 @@
+
+[
+    {
+        "question_id": 1,
+        "subject": "Mathematics",
+        "question_category": "Addition",
+        "question": "What is 2+3?",
+        "options": [
+            "4",
+            "6",
+            "5",
+            "20"
+        ],
+        "answer": "5",
+        "difficulty": "Easy"
+    },
+    {
+        "question_id": 2,
+        "subject": "Mathematics",
+        "question_category": "Addition",
+        "question": "What is 25+7?",
+        "options": [
+            "32",
+            "10",
+            "37",
+            "67"
+        ],
+        "answer": "32",
+        "difficulty": "Medium"
+    },
+    {
+        "question_id": 3,
+        "subject": "Mathematics",
+        "question_category": "Addition",
+        "question": "What is 7+2?",
+        "options": [
+            "9",
+            "8",
+            "7",
+            "4"
+        ],
+        "answer": "9",
+        "difficulty": "Easy"
+    },
+    {
+        "question_id": 4,
+        "subject": "Mathematics",
+        "question_category": "Addition",
+        "question": "What is 14+3?",
+        "options": [
+            "17",
+            "16",
+            "20",
+            "12"
+        ],
+        "answer": "17",
+        "difficulty": "Medium"
+    },
+    {
+        "question_id": 5,
+        "subject": "Mathematics",
+        "question_category": "Addition",
+        "question": "What is 6+8?",
+        "options": [
+            "14",
+            "13",
+            "12",
+            "11"
+        ],
+        "answer": "14",
+        "difficulty": "Easy"
+    },
+    {
+        "question_id": 6,
+        "subject": "Mathematics",
+        "question_category": "Addition",
+        "question": "What is 20+9?",
+        "options": [
+            "29",
+            "28",
+            "30",
+            "27"
+        ],
+        "answer": "29",
+        "difficulty": "Medium"
+    },
+    {
+        "question_id": 7,
+        "subject": "Mathematics",
+        "question_category": "Subtraction",
+        "question": "What is 5-2?",
+        "options": [
+            "3",
+            "2",
+            "7",
+            "0"
+        ],
+        "answer": "3",
+        "difficulty": "Easy"
+    },
+    {
+        "question_id": 8,
+        "subject": "Mathematics",
+        "question_category": "Subtraction",
+        "question": "What is 50-26?",
+        "options": [
+            "24",
+            "34",
+            "27",
+            "45"
+        ],
+        "answer": "24",
+        "difficulty": "Medium"
+    },
+    {
+        "question_id": 9,
+        "subject": "Mathematics",
+        "question_category": "Subtraction",
+        "question": "What is 8-3?",
+        "options": [
+            "5",
+            "6",
+            "3",
+            "2"
+        ],
+        "answer": "5",
+        "difficulty": "Easy"
+    },
+    {
+        "question_id": 10,
+        "subject": "Mathematics",
+        "question_category": "Subtraction",
+        "question": "What is 55-49?",
+        "options": [
+            "8",
+            "2",
+            "6",
+            "7"
+        ],
+        "answer": "6",
+        "difficulty": "Medium"
+    },
+    {
+        "question_id": 11,
+        "subject": "Mathematics",
+        "question_category": "Subtraction",
+        "question": "What is 4-3?",
+        "options": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ],
+        "answer": "1",
+        "difficulty": "Easy"
+    },
+    {
+        "question_id": 12,
+        "subject": "Mathematics",
+        "question_category": "Subtraction",
+        "question": "What is 40-17?",
+        "options": [
+            "23",
+            "22",
+            "21",
+            "20"
+        ],
+        "answer": "23",
+        "difficulty": "Medium"
+    },
+    {
+        "question_id": 13,
+        "subject": "Swahili",
+        "question_category": "Meaning",
+        "question": "What is Maji in English?",
+        "options": [
+            "Water",
+            "Tea",
+            "Uji",
+            "None"
+        ],
+        "answer": "Water",
+        "difficulty": "Easy"
+    },
+    {
+        "question_id": 14,
+        "subject": "Swahili",
+        "question_category": "Meaning",
+        "question": "What is the name of a horse in Swahili?",
+        "options": [
+            "Farasi",
+            "Punda",
+            "Ndovu",
+            "Ng'ombe"
+        ],
+        "answer": "Farasi",
+        "difficulty": "Easy"
+    },
+    {
+        "question_id": 15,
+        "subject": "Swahili",
+        "question_category": "Meaning",
+        "question": "Which list is odd one out?",
+        "options": [
+            "Farasi,Paka,Mountain",
+            "Mlima,Mabonde,Jua",
+            "Trees,gate,girls",
+            "Nyaya,Mvua,Mawingu"
+        ],
+        "answer": "Farasi,Paka,Mountain",
+        "difficulty": "Medium"
+    },
+    {
+        "question_id": 16,
+        "subject": "Swahili",
+        "question_category": "Meaning",
+        "question": "Kinyume cha simama ni?",
+        "options": [
+            "Keti",
+            "Baba",
+            "Sikia",
+            "Malkia"
+        ],
+        "answer": "Keti",
+        "difficulty": "Easy"
+    },
+    {
+        "question_id": 17,
+        "subject": "English",
+        "question_category": "Words and Letters",
+        "question": "A for?",
+        "options": [
+            "Boy",
+            "Apple",
+            "Cat",
+            "Dog"
+        ],
+        "answer": "Apple",
+        "difficulty": "Easy"
+    },
+    {
+        "question_id": 18,
+        "subject": "English",
+        "question_category": "Words and Letters",
+        "question": "A,B,__,D. Fill in the gap.",
+        "options": [
+            "C",
+            "E",
+            "F",
+            "G"
+        ],
+        "answer": "C",
+        "difficulty": "Easy"
+    },
+    {
+        "question_id": 19,
+        "subject": "English",
+        "question_category": "Words and Letters",
+        "question": "Q for?",
+        "options": [
+            "Queen",
+            "Joy",
+            "Jug",
+            "Kettle"
+        ],
+        "answer": "Queen",
+        "difficulty": "Easy"
+    },
+    {
+        "question_id": 20,
+        "subject": "English",
+        "question_category": "Words and Letters",
+        "question": "Q,R,S,__",
+        "options": [
+            "T",
+            "X",
+            "U",
+            "Z"
+        ],
+        "answer": "T",
+        "difficulty": "Easy"
+    }
+]
